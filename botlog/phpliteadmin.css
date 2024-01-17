@@ -242,6 +242,7 @@ fieldset{
 	border-top-right-radius: var(--radius);
 	-moz-border-radius-topleft: var(--radius);
 	-moz-border-radius-topright: var(--radius);
+	opacity: 100%;
 }
 
 .tab {
@@ -259,4 +260,5 @@ fieldset{
 	border-top-right-radius: var(--radius);
 	-moz-border-radius-topleft: var(--radius);
 	-moz-border-radius-topright: var(--radius);
+	opacity: 50%;
 }
